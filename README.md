@@ -8,8 +8,6 @@
     * [On-premises Active Directory & RBAC Deployed in the Cloud](https://github.com/keenan371/Enterprise-AD-RBAC-Lab)
 * **Network Analysis**
     * [Azure Network Traffic Analysis & Security Engineering](https://github.com/keenan371/Azure-Network-Protocols)
-* **Cloud Governance & Security**
-    * Secure Document Governance & IAM Policies (Lab in Progress)
 
 ---
 
