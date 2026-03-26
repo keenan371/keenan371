@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Keenan, a Cybersecurity & IT Professional 👋
 
-<!--
-**keenan371/keenan371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Information Technology Projects:
 
-Here are some ideas to get you started:
+* **Active Directory & Identity Management (Azure)**
+    * [On-premises Active Directory & RBAC Deployed in the Cloud](https://github.com/keenan371/Enterprise-AD-RBAC-Lab)
+* **Cloud Governance & Security**
+    * Secure Document Governance & IAM Policies (Lab in Progress)
+* **Network Analysis**
+    * Azure Network Traffic Analysis (Lab in Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤳 Connect with me:
+
+* **LinkedIn:** [linkedin.com/in/keenanmcgriff](https://www.linkedin.com/in/keenanmcgriff)
