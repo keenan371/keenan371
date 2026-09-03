@@ -11,6 +11,17 @@ The more I build, the clearer my lane gets: AI security, automation, and the con
 - Building local-first agent workflows with clear approval and audit boundaries
 - Turning repetitive business processes into systems people can actually use
 
+## BlueHippoCyber systems work
+
+Outside the portfolio labs, I build and maintain the working systems behind BlueHippoCyber:
+
+- Multi-agent workspaces with separate roles, memory, operating rules, and human approval boundaries
+- Self-hosted n8n workflows on a Linux VPS using webhooks, REST APIs, scheduled jobs, and failure checks
+- Claude API integrations connected to CRMs, lead intake, Telegram alerts, and business operations
+- Local and cloud prototypes where I own the build, troubleshooting, documentation, and live verification
+
+That work is why I care about AI security. An agent is not useful just because it can complete a task. It also needs scoped access, traceable decisions, safe failure behavior, and a person who knows how to test the whole system.
+
 ## Featured work
 
 ### [RedRabbit vs. Hugo: Local AI Red Team Lab](https://github.com/keenan371/redrabbit-hugo-ai-red-team-lab)
@@ -38,7 +49,9 @@ Worked support tickets from both sides: creating requests as an end user, then t
 
 **AI security and governance:** prompt-injection testing, agent boundaries, structured event logging, AI risk registers, NIST AI RMF mapping, control-gap analysis, human approval gates
 
-**AI automation:** agent workflows, n8n automation, API integrations, local-first prototypes, workflow testing, technical documentation
+**AI automation:** multi-agent orchestration, n8n, Claude API integrations, webhooks, REST APIs, scheduled workflows, CRM integrations, Telegram alerts
+
+**Systems and operations:** Linux VPS administration, workflow monitoring, incident troubleshooting, test-driven verification, deployment documentation
 
 **IT foundations:** Windows, Active Directory, Group Policy, RBAC, DNS, DHCP, VPNs, ports and protocols, Azure fundamentals, file permissions, ticket triage
 
