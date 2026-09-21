@@ -42,6 +42,7 @@ Worked support tickets from both sides: creating requests as an end user, then t
 
 ### More infrastructure labs
 
+- [Azure Storage lifecycle, integrity verification, and cost cleanup](https://github.com/keenan371/azure-cloud-fundamentals-lab-1)
 - [Azure network traffic and protocol analysis](https://github.com/keenan371/Azure-Network-Protocols)
 - [Azure file shares and NTFS permissions](https://github.com/keenan371/Azure-Network-File-Shares)
 
