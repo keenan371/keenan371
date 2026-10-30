@@ -1,13 +1,20 @@
 # Keenan McGriff
-### AI systems, security, and automation
+### Cybersecurity, AI systems, and automation
 
-I build AI workflows and document how they behave when access, data, and instructions are put to the test.
+I'm building toward a career in cybersecurity, with a focus on penetration testing, web application security, and AI security.
 
-I'm the founder of [BlueHippoCyber](https://www.bluehippocyber.com/), where I work with automation and business technology. My portfolio brings that systems work together with hands-on labs in AI security, Azure, Windows administration, Linux, and technical support.
+My background includes business ownership, IT support, automation, and building technology through [BlueHippoCyber](https://www.bluehippocyber.com/). This portfolio documents my hands-on work across Linux, networking, Azure, Active Directory, technical support, and AI applications.
 
-**Career focus:** AI security engineering, AI operations, automation, and technical AI support.
+I share the commands, troubleshooting, test results, and lessons behind each project so you can see what I built and what I learned.
 
-[LinkedIn](https://www.linkedin.com/in/keenanmcgriff) · [BlueHippoCyber](https://www.bluehippocyber.com/) · [Explore the labs below](#project-directory)
+[LinkedIn](https://www.linkedin.com/in/keenanmcgriff) · [BlueHippoCyber](https://www.bluehippocyber.com/) · [Explore the labs](#project-directory)
+
+## What I'm working on now
+
+- Developing Linux command-line skills through hands-on exercises, including OverTheWire Bandit
+- Strengthening networking and web fundamentals for security testing
+- Exploring AI application security through controlled labs in access control, prompt injection, and agent boundaries
+- Maintaining practical notes and documenting results as I progress
 
 ---
 
@@ -68,7 +75,7 @@ Command reference, filesystem navigation, file and log searches, shell operators
 | Automation and investigation | Python, PowerShell, Azure CLI, REST APIs, Wireshark, KQL, and Windows Security event logs |
 | Governance and documentation | AI risk registers, NIST AI RMF mapping, proposed-control analysis, walkthroughs, and evidence capture |
 
-## Beyond the labs
+## BlueHippoCyber systems work
 
 Through BlueHippoCyber, I build and maintain business automation using n8n, Claude API integrations, webhooks, CRMs, and Telegram alerts. That work includes Linux VPS administration, workflow monitoring, troubleshooting, and documenting how the pieces fit together.
 
@@ -80,6 +87,6 @@ I include setup steps, commands, troubleshooting, observed results, and screensh
 
 ## Connect
 
-I'm interested in opportunities across AI security, AI operations, automation, technical AI support, and IT support.
+I'm open to opportunities in cybersecurity, IT support, AI operations, and automation where I can contribute my systems and troubleshooting experience while continuing to develop my security skills.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/keenanmcgriff) · [Visit BlueHippoCyber](https://www.bluehippocyber.com/)
