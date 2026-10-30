@@ -13,6 +13,12 @@ A concise record of my Linux Fundamentals Part 1 practice: navigating the filesy
 - Chain commands, run a command in the background, and redirect output.
 - Diagnose a filename mismatch by checking the directory and exact spelling.
 
+## Command tutorial illustration
+
+![Linux terminal command tutorial showing navigation, file reading, filename troubleshooting, log searches, and output redirection](images/linux-terminal-command-tutorial.png)
+
+*User-provided command tutorial illustration. This image illustrates the commands discussed below; it does not show TryHackMe room completion.*
+
 ## Command reference
 
 | Command | Purpose | Example |
