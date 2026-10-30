@@ -42,6 +42,8 @@ Worked support tickets from both sides: creating requests as an end user, then t
 
 ### More infrastructure labs
 
+- [Linux Fundamentals Part 1: navigation, file searches, log inspection, and shell operators](linux/linux-fundamentals-part-1/README.md)
+
 - [Azure Storage lifecycle, integrity verification, and cost cleanup](https://github.com/keenan371/azure-cloud-fundamentals-lab-1)
 - [Two Azure VMs on one virtual network, Wireshark packet analysis, and an NSG firewall test](https://github.com/keenan371/azure-cloud-fundamentals-lab-2)
 - [Azure network traffic and protocol analysis](https://github.com/keenan371/Azure-Network-Protocols)
