@@ -1,7 +1,7 @@
 # Keenan McGriff
 ### Pursuing penetration testing and ethical hacking
 
-I'm building a career in offensive security, with a focus on penetration testing and web application security. My IT foundation comes from CourseCareers training and hands-on projects in networking, Windows administration, Active Directory, Azure, and technical support.
+I'm building a career in offensive security, with a focus on penetration testing and web application security. My hands-on experience includes configuring networks, administering Windows and Active Directory, deploying Azure resources, and troubleshooting technical support scenarios.
 
 This portfolio shows how I apply that foundation: configuring systems, testing access, investigating problems, and documenting the results. I'm continuing to develop my Linux and security testing skills through practical training.
 
@@ -9,9 +9,9 @@ I'm also the founder of [BlueHippoCyber](https://www.bluehippocyber.com/), where
 
 [LinkedIn](https://www.linkedin.com/in/keenanmcgriff) · [BlueHippoCyber](https://www.bluehippocyber.com/) · [Project directory](#project-directory)
 
-## IT foundation — CourseCareers and hands-on labs
+## Systems, networking, and support experience
 
-My CourseCareers training established the IT foundation I'm building on as I pursue security. The projects below document my work with identity, networking, permissions, cloud infrastructure, and support workflows.
+The projects below demonstrate my work with identity, networking, permissions, cloud infrastructure, and support workflows—the systems knowledge I'm building on as I pursue security.
 
 ### [Active Directory and account security](https://github.com/keenan371/Enterprise-AD-RBAC-Lab)
 
@@ -33,7 +33,7 @@ Deployed and configured a help desk on an Azure Windows VM, then worked ticket s
 
 ## Current security development
 
-- **Linux:** Developing command-line fluency through file navigation, text searches, shell operators, and OverTheWire Bandit.
+- **Linux:** Developing command-line fluency through SSH connections, file navigation, text searches, and shell operators.
 - **Networking:** Building on existing protocol-analysis and firewall labs to understand how systems communicate and where access is controlled.
 - **Penetration testing and ethical hacking:** Developing the technical foundations for authorized security testing, with web application security as a career focus.
 - **Documentation:** Recording commands, reasoning, troubleshooting, and observed results so my work can be reviewed and explained.
