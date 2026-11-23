@@ -20,7 +20,7 @@ I welded for 8 years and ran my own welding business for 3. That taught me to bu
 | **AI agents & automation** | Agents and workflows that handle intake, follow-up, routing and notifications so nothing falls through the cracks. |
 | **AI security & governance** | AI use policies and reviews of how a business's AI tools handle data and access. |
 
-Businesses we support include remodeling & contracting, retail, and health & wellness.
+Businesses I support include remodeling & contracting, retail, and health & wellness.
 
 ---
 
@@ -29,7 +29,7 @@ Businesses we support include remodeling & contracting, retail, and health & wel
 **Founder & operator · BlueHippoCyber** — I own the whole thing: sales, delivery, support and the systems behind it.
 
 - **Paying clients.** I support small businesses in remodeling & contracting, retail, and health & wellness. That means websites, security and the automation that runs behind them.
-- **Built our own help desk.** I built BHC's ticketing system so every client request gets logged, prioritized, worked and closed with notes.
+- **Built my own help desk.** I built BHC's ticketing system so every client request gets logged, prioritized, worked and closed with notes.
 - **AI agents in production.** I build and run AI agents for real business work, including outreach, email, lead tracking, security watch and status reports. Lately that includes IT and security agents built in Microsoft Copilot.
 - **Automation that runs every day.** n8n workflows, webhooks, CRM pipelines and Telegram alerts tie client systems together and tell me when something breaks.
 - **Linux server admin.** I set up, maintain and troubleshoot the VPS that hosts BHC's automation.
@@ -37,13 +37,13 @@ Businesses we support include remodeling & contracting, retail, and health & wel
 
 ---
 
-## How we serve clients
+## How I work with clients
 
-- **Plain English, always.** You'll know what broke, what we did and what it cost. No jargon.
-- **Ask before the bill grows.** If a job runs past what we agreed, we stop and check with you first.
+- **Plain English, always.** You'll know what broke, what I did and what it cost. No jargon.
+- **Ask before the bill grows.** If a job runs past what we agreed, I stop and check with you first.
 - **Secure by default.** Every fix and build gets a security pass before it's called done.
 - **Document everything.** Every ticket, change and finding is written down so the next fix is faster.
-- **Honest about scope.** If something is outside what we do, like a full penetration test, we say so and bring in a qualified partner.
+- **Honest about scope.** If something is outside what I do, like a full penetration test, I say so and bring in a qualified partner.
 
 ---
 
