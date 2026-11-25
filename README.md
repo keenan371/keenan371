@@ -13,6 +13,7 @@ I welded for 8 years and ran my own welding business for 3. That taught me to bu
 
 | Service | What it means for a business owner |
 | --- | --- |
+| [Private AI for a law firm](https://github.com/keenan371/bhc-mini-spark-lab) | Local model, Open WebUI, role-based folder access, 8 access tests |
 | **IT support** | Remote fixes for computers, email, printers, accounts and basic network issues. No long-term contract. |
 | **Website & web app security** | Security reviews for business sites, including AI-built and "vibe-coded" apps, plus ongoing monitoring and weekly reports. |
 | **Microsoft 365 & account security** | User setup and offboarding, MFA, admin access reviews and security baselines. |
@@ -53,6 +54,7 @@ Where I sharpen the skills behind BHC's services. Each write-up covers the setup
 
 ### 🤖 AI & security
 
+- **[Private AI for a law firm (Mini Spark)](https://github.com/keenan371/bhc-mini-spark-lab)** — One machine running a local AI model with users, groups and folder access. The front desk gets denied, the paralegal gets the answer, the attorney sees everything. 8 of 8 access tests passed.
 - **[Local help desk agent](https://github.com/keenan371/local-help-desk-agent)** — A help desk agent that runs locally and works through support tickets.
 - **[RedRabbit vs. Hugo — AI Red Team Lab](https://github.com/keenan371/redrabbit-hugo-ai-red-team-lab)** — Tested a deliberately weak AI agent against a hardened one using four controlled attack simulations. The hardened agent caught, refused and logged all four.
 - **[Secured RAG IT Help Desk on Azure](https://github.com/keenan371/azure-secured-rag-helpdesk)** — An AI help desk that only shows each user the documents their group is allowed to see, with audit logs in Log Analytics.
